@@ -1,0 +1,13 @@
+**/*.json
+**/*.model*
+**/*.txt
+**/*.csv
+**/*.nt*
+**/*.ttl
+**/*.tql
+**/*.text
+**/*.bz2
+**/*.xml
+**/*.lzma
+Corpus
+
